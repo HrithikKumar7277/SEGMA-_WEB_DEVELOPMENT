@@ -1,1 +1,3 @@
 # SEGMA-_WEB_DEVELOPMENT
+This is my first Web development Code
+Hrithik Kumar...
